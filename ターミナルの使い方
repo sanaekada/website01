@@ -1,2 +1,19 @@
+
+【PCのファイル操作】
+pwd　今いるとこを見る
+cd 移動する
+例：cd Desktop/sanae/sonota/githubsanae/website01/ 
+
 ls ふぉるだのなかみる
 mkdir ふぉるだつくる
+
+
+
+
+
+【ファイルをpushするとき】
+git add ファイル名
+git commit -m "コメント"
+git push
+
+
